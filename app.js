@@ -5,20 +5,20 @@ INPUT: 2 8
 OUTPUT: 8 is greater
 */
 ///////////////////////////////////////////////////////////////////////
-var num1 = prompt("Enter-Any-Number From 0 to 1000000");
-var num2 = prompt("Enter-any-number from 0 to 1000000");
+// var num1 = prompt("Enter-Any-Number From 0 to 1000000");
+// var num2 = prompt("Enter-any-number from 0 to 1000000");
 
-num1=parseInt(num1)
-num2=parseInt(num2)
-if(num1>num2){
-    alert(num1 + " Is Greater")
-}
-if(num2>num1){
-    alert(num2 + " Is Greater")
-}
-if(num1==num2){
-    alert("Equal numbers")
-}
+// num1=parseInt(num1)
+// num2=parseInt(num2)
+// if(num1>num2){
+//     alert(num1 + " Is Greater")
+// }
+// if(num2>num1){
+//     alert(num2 + " Is Greater")
+// }
+// if(num1==num2){
+//     alert("Equal numbers")
+// }
 
 
 
@@ -30,6 +30,22 @@ OUTPUT: 2
 Hint:  -2 + (2*2) = 2
 */
 ///////////////////////////////////////////////////////////////////////
+
+var num1 = prompt("number");
+num1 = parseInt(num1)
+
+if(num1>0){
+    alert("Alredy Posative")
+}
+if(num1<0){
+    alert(
+ num1%num1-num1   
+    )
+   }
+if(num1==0){
+    alert("Alredy Posative")
+}
+
 
 ////////////////////////////////////////////////////////////////////////
 /* 
