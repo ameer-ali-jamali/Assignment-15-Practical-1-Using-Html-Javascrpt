@@ -5,22 +5,20 @@ INPUT: 2 8
 OUTPUT: 8 is greater
 */
 ///////////////////////////////////////////////////////////////////////
+
 // var num1 = prompt("Enter-Any-Number From 0 to 1000000");
 // var num2 = prompt("Enter-any-number from 0 to 1000000");
-
 // num1=parseInt(num1)
 // num2=parseInt(num2)
 // if(num1>num2){
-//     alert(num1 + " Is Greater")
+//  alert(num1 + " Is Greater")
 // }
 // if(num2>num1){
-//     alert(num2 + " Is Greater")
+//  alert(num2 + " Is Greater")
 // }
 // if(num1==num2){
-//     alert("Equal numbers")
+//  alert("Equal numbers")
 // }
-
-
 
 ////////////////////////////////////////////////////////////////////////
 /* 
@@ -31,21 +29,18 @@ Hint:  -2 + (2*2) = 2
 */
 ///////////////////////////////////////////////////////////////////////
 
-var num1 = prompt("number");
-num1 = parseInt(num1)
+// var num1 = prompt("number");
+// num1 = parseInt(num1)
 
-if(num1>0){
-    alert("Alredy Posative")
-}
-if(num1<0){
-    alert(
- num1%num1-num1   
-    )
-   }
-if(num1==0){
-    alert("Alredy Posative")
-}
-
+// if(num1>0){
+//  alert("Alredy Posative")
+// }
+// if(num1<0){
+//  alert(num1%num1-num1)
+//  }
+// if(num1==0){
+// alert("Alredy Posative")
+// }
 
 ////////////////////////////////////////////////////////////////////////
 /* 
@@ -59,6 +54,17 @@ if(num1==0){
 */
 ///////////////////////////////////////////////////////////////////////
 
+// var num1 =prompt("")
+// if(num1=="a" || num1=="A" || num1=="E" || num1=="e" || num1=="O" || num1=="o" || num1=="I" || num1=="i"||    num1=="U" || num1=="u" ){
+//  alert("VOWEL")
+// }
+// if(num1>0 || num1<0){
+// alert("Please tpe Text")
+// }
+// else{
+//     alert("CONSONANT")
+// }
+
 ////////////////////////////////////////////////////////////////////////
 /* 
  Q4: Write a program to swap two values.
@@ -66,6 +72,17 @@ Num1 = 2, Num2 = 4
  Output: Num1 = 4, Num2 = 2
 */
 ///////////////////////////////////////////////////////////////////////
+
+// var num1 = 2;
+// var num2 = 4;
+// num1 = parseInt(num1)
+// num2 = parseInt(num2)
+// if(num1){
+//  alert(num2)
+// }
+// if(num2){
+//  alert(num1)
+// }
 
 ////////////////////////////////////////////////////////////////////////
 /* 
@@ -76,6 +93,13 @@ Num1 = 2, Num2 = 4
 */
 ///////////////////////////////////////////////////////////////////////
 
+// var num1 = prompt("Enter Your Classes Attend")
+// var num1 = prompt("Enter Your Classes Attend")
+// var num1 = prompt("Enter Your Classes Attend")
+
+// if(){
+
+// }
 ////////////////////////////////////////////////////////////////////////
 /* 
  Q6: Input 3 sides of triangle from user and display if the triangle is valid or not.
@@ -88,3 +112,16 @@ Num1 = 2, Num2 = 4
  OUTPUT: INVALID TRIANGLE
 */
 ///////////////////////////////////////////////////////////////////////
+
+// var side1 =  prompt("Please input ")
+// var side2 =  prompt("Please input ")
+// var side3 =  prompt("Please input ")
+// side1 = parseInt(side1)
+// side2 = parseInt(side2)
+// side3 = parseInt(side3)
+// if(side1+side2+side3==180){
+//   alert("VALID TRIANGLE")
+// }
+// else{
+//   alert("INVALID TRIANGLE")
+// }
