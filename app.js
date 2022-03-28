@@ -6,7 +6,7 @@ OUTPUT: 8 is greater
 */
 ///////////////////////////////////////////////////////////////////////
 
-// var num1 = prompt("Enter-Any-Number From 0 to 1000000");
+// var num1 = prompt("Enter Any Number From 0 to 1000000");
 // var num2 = prompt("Enter-any-number from 0 to 1000000");
 // num1=parseInt(num1)
 // num2=parseInt(num2)
@@ -29,17 +29,16 @@ Hint:  -2 + (2*2) = 2
 */
 ///////////////////////////////////////////////////////////////////////
 
-// var num1 = prompt("number");
+// var num1 = prompt("Convert Negative Numbers To Positive");
 // num1 = parseInt(num1)
-
 // if(num1>0){
-//  alert("Alredy Posative")
+//   alert("Alredy Posative")
 // }
 // if(num1<0){
-//  alert(num1%num1-num1)
+//   alert(num1%num1-num1)
 //  }
 // if(num1==0){
-// alert("Alredy Posative")
+//   alert("Alredy Posative")
 // }
 
 ////////////////////////////////////////////////////////////////////////
@@ -54,7 +53,7 @@ Hint:  -2 + (2*2) = 2
 */
 ///////////////////////////////////////////////////////////////////////
 
-// var num1 =prompt("")
+// var num1 =prompt("Enter Any Leters To Know Vowel letters Or Not")
 // if(num1=="a" || num1=="A" || num1=="E" || num1=="e" || num1=="O" || num1=="o" || num1=="I" || num1=="i"||    num1=="U" || num1=="u" ){
 //  alert("VOWEL")
 // }
@@ -93,18 +92,18 @@ Num1 = 2, Num2 = 4
 */
 ///////////////////////////////////////////////////////////////////////
 
-// var num1 = prompt("Plese Enter Your Total Classes")
-// var num2 = prompt("Plese Enter Your Attend Classes");
-// num1 = parseInt(num1)
-// num2 = parseInt(num2)
+// var num1 = prompt("Plese Enter Your Total  Classes In Numbers");
+// var num2 = prompt("Plese Enter Your Attend Classes In Numbers");
+// num1 = parseInt(num1);
+// num2 = parseInt(num2);
 // if(num1&&num2/100&&num2*100/num1<75){
-//     alert("Ineligible")
+//     alert("Ineligible");
 // }
 // if(num1&&num2/100&&num2*100/num1>=75 && num1>=num2){
-//     alert("Eligible")
+//     alert("Eligible");
 // }
 // if(num2>=num1){
-//     alert("Please Try Again")
+//     alert("Please Try Again");
 // }
 
 ////////////////////////////////////////////////////////////////////////
@@ -120,15 +119,15 @@ Num1 = 2, Num2 = 4
 */
 ///////////////////////////////////////////////////////////////////////
 
-// var side1 =  prompt("Please input ")
-// var side2 =  prompt("Please input ")
-// var side3 =  prompt("Please input ")
-// side1 = parseInt(side1)
-// side2 = parseInt(side2)
-// side3 = parseInt(side3)
+// var side1 =  prompt("Please input ");
+// var side2 =  prompt("Please input ");
+// var side3 =  prompt("Please input ");
+// side1 = parseInt(side1);
+// side2 = parseInt(side2);
+// side3 = parseInt(side3);
 // if(side1+side2+side3>=180){
-//   alert("VALID TRIANGLE")
+//   alert("VALID TRIANGLE");
 // }
 // else{
-//   alert("INVALID TRIANGLE")
+//   alert("INVALID TRIANGLE");
 // }
