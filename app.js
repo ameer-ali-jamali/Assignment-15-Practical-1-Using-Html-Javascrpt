@@ -93,13 +93,20 @@ Num1 = 2, Num2 = 4
 */
 ///////////////////////////////////////////////////////////////////////
 
-// var num1 = prompt("Enter Your Classes Attend")
-// var num1 = prompt("Enter Your Classes Attend")
-// var num1 = prompt("Enter Your Classes Attend")
-
-// if(){
-
+// var num1 = prompt("Plese Enter Your Total Classes")
+// var num2 = prompt("Plese Enter Your Attend Classes");
+// num1 = parseInt(num1)
+// num2 = parseInt(num2)
+// if(num1&&num2/100&&num2*100/num1<75){
+//     alert("Ineligible")
 // }
+// if(num1&&num2/100&&num2*100/num1>=75 && num1>=num2){
+//     alert("Eligible")
+// }
+// if(num2>=num1){
+//     alert("Please Try Again")
+// }
+
 ////////////////////////////////////////////////////////////////////////
 /* 
  Q6: Input 3 sides of triangle from user and display if the triangle is valid or not.
@@ -119,7 +126,7 @@ Num1 = 2, Num2 = 4
 // side1 = parseInt(side1)
 // side2 = parseInt(side2)
 // side3 = parseInt(side3)
-// if(side1+side2+side3==180){
+// if(side1+side2+side3>=180){
 //   alert("VALID TRIANGLE")
 // }
 // else{
