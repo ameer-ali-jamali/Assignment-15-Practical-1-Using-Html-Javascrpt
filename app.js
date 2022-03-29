@@ -72,15 +72,13 @@ Num1 = 2, Num2 = 4
 */
 ///////////////////////////////////////////////////////////////////////
 
-// var num1 = 2;
-// var num2 = 4;
-// num1 = parseInt(num1)
-// num2 = parseInt(num2)
-// if(num1){
-//  alert(num2)
-// }
+// var num1 = parseInt(prompt("Plese Input Number"))
+// var num2 = parseInt(prompt("Plese Input Number"))
 // if(num2){
-//  alert(num1)
+// alert(num1)
+// }
+// if(num1){
+// alert(num2)
 // }
 
 ////////////////////////////////////////////////////////////////////////
